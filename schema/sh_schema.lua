@@ -16,5 +16,3 @@ Schema.description = "NameLess Server / No Limits Schema"
 -- automatically.
 
 -- You'll need to manually include files in the meta/ folder, however.
-ix.util.Include("meta/sh_character.lua")
-ix.util.Include("meta/sh_player.lua")
